@@ -18,7 +18,7 @@ Minimalist logic challenges focusing on connectivity, boundary logic, and spatia
   * 🌐 English: [Play Pure Loop](https://gridpuzzle.com/pure-loop)
   * 🇩🇪 Deutsch: [Pure Loop Logikrätsel](https://de.gridpuzzle.com/pure-loop)
   * 🇨🇳 简体中文: [Pure Loop 纯回路谜题](https://cn.gridpuzzle.com/pure-loop)
-* **Slitherlink (Fences)** *(If available)*
+* **Slitherlink (Fences)** 
   * 🌐 Link: [Play Slitherlink](https://gridpuzzle.com/slitherlink)
 
 ### 2. Advanced Sudoku Variations
