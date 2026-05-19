@@ -27,15 +27,18 @@ Stepping beyond classic 9x9 grids into complex, interdependent grid networks.
   * 🌐 Link: [Play Twin Sudoku](https://gridpuzzle.com/twin-sudoku)
 * **Multi Sudoku**
   * 🌐 Link: [Play Multi Sudoku](https://gridpuzzle.com/multi-sudoku)
-* **Killer Sudoku** *(If available)*
+* **Killer Sudoku** 
   * 🌐 Link: [Play Killer Sudoku](https://gridpuzzle.com/killer-sudoku)
 
 ### 3. Number Placement & Arithmetic Puzzles
 Grid puzzles that require mathematical logic and intersection deductions.
-* **Kakurasu** *(If available)*
+* **Kakurasu**
   * 🌐 Link: [Play Kakurasu](https://gridpuzzle.com/kakurasu)
-* **Thermometers** *(If available)*
+* **Thermometers** 
   * 🌐 Link: [Play Thermometers Puzzle](https://gridpuzzle.com/thermometers)
+  * 🌐 Link: [Play Thermometer orientation (H/V) Puzzle](https://gridpuzzle.com/thermometers2)
+  * 🌐 Link: [Play Curved Thermometers Puzzle](https://gridpuzzle.com/thermometers3)
+
 
 ---
 
